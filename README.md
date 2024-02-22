@@ -45,7 +45,8 @@ Here is email of Professor, if you need any questions:------@gmail.com
 
 Here is writing and drawing from the website ( Same template as the website of IBM Wattson ). I want to add more to this in time.
 
+<img width="692" alt="Screenshot 2024-02-22 at 12 43 09 PM" src="https://github.com/johnm-8/Intership/assets/153422653/6d42f17b-9bac-40e4-a63f-a28ccae362ef">
 
-
+Currently, want to add more question, will *Update whena adding something new*  
 
 
