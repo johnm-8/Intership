@@ -2,6 +2,15 @@
 
 Hi, I hope you are having a blessed day. Here is the project that I was able to develop. Now, my head is not thinking at the moment, so my idea is blank. I just wanted to add on to the idea for everyone that presented their idea to the whole classroom. 
 
+Figma Template
+--------------
+
+Figma Link: https://www.figma.com/file/sZoreHtfuoHJVSnCIFFJrz/Untitled?type=design&node-id=0%3A1&mode=design&t=2LoYePCEdiQpDiuE-1
+
+
+*Website being created but wasn't able to put it in code* 
+
+
 Here is me drawing the template *I mostly perfer drawing it out because it makes me brainstorm different ideas, and if I don't like the idea then I put DON'T LIKE IDEA* 
 
 Now, the template show a BMCC Chatbot.
