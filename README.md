@@ -47,6 +47,9 @@ Here is writing and drawing from the website ( Same template as the website of I
 
 <img width="692" alt="Screenshot 2024-02-22 at 12 43 09 PM" src="https://github.com/johnm-8/Intership/assets/153422653/6d42f17b-9bac-40e4-a63f-a28ccae362ef">
 
-Currently, want to add more question, will *Update whena adding something new*  
+Currently, want to add more question, will *Update when adding something new*  
 
+Random Idea 
+-----------
 
+It would be cool if all the Professor would speak to the students with their own voice, bascially a AI voice. There is websites that can produce that sound for Professor, where the students can communicate with them. That would be cool. 
