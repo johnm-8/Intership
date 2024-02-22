@@ -24,3 +24,28 @@ Is the same thing as pervious, the only difference I want to add is the "+" sign
 
 <img width="745" alt="Screenshot 2024-02-21 at 4 09 28 PM" src="https://github.com/johnm-8/Intership/assets/153422653/2f1c08c8-2b33-47b6-9a19-da9ac8e342a4">
 
+IBM Chatbot
+-----------
+
+I wasn't able to complete the IBM Chatbot, but here is the question that I would put in the IBM Chatbot.
+
+Samll example: 
+
+QUESTION 1:
+-----------
+User: 
+I need to know the assignments, that I have missed. Can you send me the assingments?
+
+AIManny: 
+*Rawr* Here is the assignments, that are missing
+Assingment 1: Info here 
+Assignment 2: Info here 
+Etc.
+Here is email of Professor, if you need any questions:------@gmail.com 
+
+Here is writing and drawing from the website ( Same template as the website of IBM Wattson ). I want to add more to this in time.
+
+
+
+
+
