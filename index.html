@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>INC Grade Resolution Project</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="about.html">About the Project</a></li>
+          <li><a href="#resources">Resources</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home">
+        <img src="site.png" alt="Site Image" id="siteImage">
+        <h1>Empowering BMCC Students to Overcome INC Grades with AI</h1>
+        <p>Brief overview of the challenge and our AI solution.</p>
+      </section>
+      <!-- Add additional sections for About, AI Assistant, Resources, and Contact -->
+    </main>
+
+    <footer>
+      <p>John M. Pozo & AI Assistant ChatGPT</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+      window.watsonAssistantChatOptions = {
+        integrationID: "9bf5cfcb-f768-44d4-922d-e868000eb579", // The ID of this integration.
+        region: "us-east", // The region your integration is hosted in.
+        serviceInstanceID: "4ce27797-662a-46f2-8c6c-d94028a87bcc", // The ID of your service instance.
+        onLoad: async (instance) => {
+          await instance.render();
+        },
+      };
+      setTimeout(function () {
+        const t = document.createElement("script");
+        t.src =
+          "https://web-chat.global.assistant.watson.appdomain.cloud/versions/" +
+          (window.watsonAssistantChatOptions.clientVersion || "latest") +
+          "/WatsonAssistantChatEntry.js";
+        document.head.appendChild(t);
+      });
+    </script>
+  </body>
+</html>
