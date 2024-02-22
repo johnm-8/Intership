@@ -4,9 +4,6 @@ Hi, I hope you are having a blessed day. Here is the project that I was able to 
 
 Here is me drawing the template *I mostly perfer drawing it out because it makes me brainstorm different ideas, and if I don't like the idea then I put DON'T LIKE IDEA* 
 
-
-<img width="739" alt="Screenshot 2024-02-21 at 4 09 04 PM" src="https://github.com/johnm-8/Intership/assets/153422653/a7788ba2-8b8d-4be1-84ba-623390072e93">
-
 Now, the template show a BMCC Chatbot.
 --------------------------------------
 
@@ -18,8 +15,7 @@ In Step 3) When you log in, then you will see "AI Manny" and in bottom of that y
 
 In Step 4) Once, you type the questions it will transition to Step 4, when the AIManny and User is going to be talking about INC grades and setup anything that the students wants to know about INC grades. 
 
-
-<img width="745" alt="Screenshot 2024-02-21 at 4 09 28 PM" src="https://github.com/johnm-8/Intership/assets/153422653/5a50348e-ed3e-4e64-869d-ea8d5d065782">
+<img width="739" alt="Screenshot 2024-02-21 at 4 09 04 PM" src="https://github.com/johnm-8/Intership/assets/153422653/a7788ba2-8b8d-4be1-84ba-623390072e93">
 
 Template for IPhone 
 -------------------
